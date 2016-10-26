@@ -1,0 +1,21 @@
+{
+  "name": "code2040-2017application",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuapena/code2040-2017Application.git"
+  },
+  "author": "Joshua Pena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuapena/code2040-2017Application/issues"
+  },
+  "homepage": "https://github.com/joshuapena/code2040-2017Application#readme",
+  "dependencies": {
+    "request": "^2.76.0"
+  }
+}
